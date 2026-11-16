@@ -27,4 +27,4 @@ A seção de habilidades foi criada utilizando HTML e o sistema de colunas do Bo
 Os efeitos de hover foram implementados no arquivo style.css, utilizando propriedades CSS de transição e transformação.
 
 ## Link do site
-Será adicionado após a publicação no GitHub Pages.
+https://gustavoikeda26.github.io/portfolio-pessoal/
